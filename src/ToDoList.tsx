@@ -1,7 +1,6 @@
 import React from 'react';
 import { FilterValuesType } from './App';
 import { AddItemForm } from './AddItemForm';
-import { func } from 'prop-types';
 import { EditableSpan } from './EditableSpan';
 
 export type TaskType = {
